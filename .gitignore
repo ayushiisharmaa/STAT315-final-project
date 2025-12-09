@@ -1,0 +1,7 @@
+# Ignore Mac junk
+.DS_Store
+
+# Ignore data files
+data/*.csv
+data/.DS_Store
+
